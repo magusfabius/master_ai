@@ -9,11 +9,12 @@ Welcome to the AI Master Agent project! We aim to create a decentralized, multif
 
 This project envisions an intelligent agent that interacts seamlessly with various applications and tools, making decisions and performing actions leading to positive outcomes for the user, all within a decentralized network powered by blockchain and Web 3.0.
 
-## Let's get practical?
+## Let's get practical!
 
 Easy! We will just give the AI a mouse, a keyboard and a monitor.
 We will talk with the AI MAster Agent, ask questions, set task, active feddbacks.
 The more you teach your agent, the more it will understand and grow with you, so grow together! 🌱
+
 
 
 ## Components
@@ -115,6 +116,15 @@ To bring this project to life, we'll be using the following technologies:
   - **Hugging Face** (Open Source): Leveraging their infrastructure for collaborative model development.
 
 The project is public and open source, inviting contributions from the community to bring this vision to reality!
+
+
+## Useful resources and existing projects:
+
+- [LEON AI](https://github.com/leon-ai/leon)
+
+- [OPEN INTERPRETER](https://github.com/KillianLucas/open-interpreter)
+
+
 
 ## License 📄
 
